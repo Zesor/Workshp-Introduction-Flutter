@@ -25,27 +25,24 @@ Grand catalogue de widgets.
 Exécute la même interface utilisateur pour plusieurs plates-formes.
 Application haute performance.
 
-step02 : Notre première page
+Step02 : Notre première page
 
 Nous allons créer notre première page intéractive avec un titre et un corps.
 Pour cela, nous allons utilisé le Widget Scaffold.
 La classe Scaffold est un widget extensible qui remplit l'espace disponible ou l'écran. Il fournit une API pour afficher les principaux widgets de
 l'application tels que Drawer, SnackBar, Bottom-Sheet, FloatingActionButton, AppBar et BottomNavigationBar, etc.
 
-step03 : Création de boutons
+Step03 : Création de boutons
 
 Duran cette étape, nous allons voir la création de boutons. Avec Flutter tout est questions de Widget ! C'est sans doute le mot le plus important
 dans ce SDK, tout tourne autour de cette notion. Pour créer des boutons sur Flutter.
 Il y a 4 types de boutons sur Flutter: 1. Text button, 2. Outlined button, 3. Contained button, 4. Toggle button
 Je vous laisse chercher et vous laisse personaliser votre bouton.
 
-step04 : Générez une liste infini de noms
+Step04 : Générez une liste infini de noms
 
 Pour cette étape final vous devrez créer une liste qui défile à l'infini et qui génère des prenoms aléatoire.
 Pour cela, la documentation flutter est très bien faite vous trouverez tous ce dont vous aurez besoins.
 De plus vous pouvez trouver des packages sur pub.dev
 
 Contributors:
-Illyas Chihi
-Antoine Gavira
-Valentin Fouillet
