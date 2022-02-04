@@ -28,7 +28,7 @@ Application haute performance.
 Step02 : Notre première page
 
 Nous allons créer notre première page intéractive avec un titre et un corps.
-Changer d'abord de branch passez sur le branch step00 en faisant la commande suivantes : git checkout step00
+Changer d'abord de branch passez sur le branch step00 en faisant la commande suivantes : git checkout Step00
 Pour cela, nous allons utilisé le Widget Scaffold.
 La classe Scaffold est un widget extensible qui remplit l'espace disponible ou l'écran. Il fournit une API pour afficher les principaux widgets de
 l'application tels que Drawer, SnackBar, Bottom-Sheet, FloatingActionButton, AppBar et BottomNavigationBar, etc.
